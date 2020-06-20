@@ -1,6 +1,18 @@
 # InformaticsOlympiad
 A repository of my solutions to various Informatics Olympiad problems
 
+Input file: input.txt
+
+Output file: output.txt
+
+C++ Standard: C++14
+
+Execute from terminal:
+```shell
+g++ main.cpp -std=c++14 -o main.o
+./main.o
+```
+
 ### ZCO (Zonal Computing Olympiad) [link](www.codechef.com/ZCOPRAC)
 The first stage of the Indian Computing Olympiad
 
