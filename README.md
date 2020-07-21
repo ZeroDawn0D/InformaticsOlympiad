@@ -12,6 +12,8 @@ Execute from terminal:
 g++ main.cpp -std=c++14 -o main.o
 ./main.o
 ```
+#### TODO
+Rewrite Java code into C++14
 
 ### ZCO (Zonal Computing Olympiad) [link](www.codechef.com/ZCOPRAC)
 The first stage of the Indian Computing Olympiad
